@@ -1,10 +1,10 @@
 {
 	"name": "Discord-Bot-Maker-Bot",
 	"author": "Robert Borghese",
+        "start": "Main.js",
 	"main": "bot.js",
 	"version": "1.2.9",
 	"dependencies": {
-                "start": "bot.js",
 		"discord.js": "^11.2.0",
 		"fstorm": "^0.1.3",
 		"jimp": "^0.2.28"
